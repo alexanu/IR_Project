@@ -1,0 +1,1 @@
+oper shr cts cts oper net 034 000 225 000 1987 oper net exclud credit 043 000 dlrs cts share 1986 oper net exclud discontinu oper 000 dlrs two cts and extraordinari charg 119 000 dlrs loss cts reuter 

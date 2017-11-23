@@ -1,0 +1,1 @@
+oper shr five cts cts oper net 236 996 661 780 rev mln mln avg shrs 249 221 218 754 year oper shr cts cts oper net 465 700 033 457 rev mln mln avg shrs 348 127 431 669 net exclud discontinu tgc industri inc oper nil gain 123 174 dlrs quarter and loss 213 809 dlrs gain 377 412 dlrs year reuter 

@@ -1,0 +1,1 @@
+oper shr cts cts oper net 018 000 468 000 sales mln mln net excludes tax credits 284 000 dlrs 310 000 dlrs reuter 

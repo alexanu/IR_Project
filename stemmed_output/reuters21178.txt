@@ -1,0 +1,1 @@
+oper shr two cts cts oper net 162 300 773 400 rev mln mln avg shrs 282 480 045 493 exclud gain 138 000 dlrs two cts shr 733 000 dlrs nine cts from benefit tax loss carryforward reuter 

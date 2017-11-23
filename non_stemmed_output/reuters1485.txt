@@ -1,0 +1,1 @@
+oper shr two cts oper net 000 000 revs 315 000 355 000 year oper shr four cts nine cts oper net 000 204 000 revs 214 000 950 000 avg shrs 492 000 351 000 full name arden international kitchens inc more 

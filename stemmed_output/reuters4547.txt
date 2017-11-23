@@ -1,0 +1,1 @@
+oper shr cts cts oper net 515 000 449 000 rev 509 mln 440 mln 1985 net exclud extraordinari gain mln dlrs reuter 

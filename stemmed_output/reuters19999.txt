@@ -1,0 +1,1 @@
+oper shr loss cts loss cts oper net loss 001 000 loss 761 000 rev mln mln avg shrs mln mln year oper shr profit cts profit cts oper net profit 419 000 profit mln rev 381 mln 385 mln avg shrs mln mln net exclud debt retir gain 001 000 dlrs loss 316 000 dlrs quarter and loss mln dlrs 714 000 dlrs year 1986 net includ tax crdit 942 000 dlrs quarter and 729 000 dlrs year reuter 

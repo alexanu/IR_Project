@@ -1,0 +1,1 @@
+shr dlrs cts net 500 000 100 000 revs 183 mln 136 mln reuter 

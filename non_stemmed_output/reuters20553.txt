@@ -1,0 +1,1 @@
+shr loss cts loss cts net loss 484 556 loss 620 607 sales 167 631 062 837 avg shrs 985 924 935 969 year shr loss cts loss cts net loss 468 605 loss 788 406 sales 603 285 650 585 avg shrs 983 692 446 348 reuter 

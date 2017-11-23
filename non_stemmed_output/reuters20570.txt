@@ -1,0 +1,1 @@
+oper shr cts cts oper net 517 333 276 240 revs mln mln 1986 shr and net exclude extraordinary gain 333 760 dlrs cts share 1985 shr and net exclude extraordinary gain 294 859 dlrs cts share reuter 

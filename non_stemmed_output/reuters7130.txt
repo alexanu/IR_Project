@@ -1,0 +1,1 @@
+shr loss cts loss cts net loss 905 774 loss 160 717 revs 868 117 307 135 reuter 

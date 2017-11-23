@@ -1,0 +1,1 @@
+shr loss dlrs loss cts net loss mln loss mln revs 943 938 dlrs 480 333 dlrs reuter 

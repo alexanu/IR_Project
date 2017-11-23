@@ -1,0 +1,1 @@
+shr loss cts loss dlr net loss 526 359 loss 315 834 revs 032 798 276 517 reuter 

@@ -1,0 +1,1 @@
+shr cts cts net 761 000 490 000 rev mln mln reuter 

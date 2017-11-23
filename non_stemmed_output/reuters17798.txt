@@ -1,0 +1,1 @@
+oper shr cts cts oper net 258 000 166 000 1986 net excludes 842 000 dlr tax credit reuter 

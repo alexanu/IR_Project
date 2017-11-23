@@ -1,0 +1,1 @@
+oper shr four cts three cts oper net 340 036 223 297 rev mln 514 115 avg shrs 926 909 672 146 net exclud tax credit 252 160 dlrs 152 717 dlrs reuter 

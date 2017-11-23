@@ -1,0 +1,1 @@
+oper shr two cts oper net 000 000 rev 315 000 355 000 year oper shr four cts nine cts oper net 000 204 000 rev 214 000 950 000 avg shrs 492 000 351 000 full name arden intern kitchen inc more 

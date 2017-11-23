@@ -1,0 +1,1 @@
+qtr end dec shr loss cts loss cts net loss 632 426 loss 373 358 rev 277 976 535 550 avg shrs mln mln reuter 

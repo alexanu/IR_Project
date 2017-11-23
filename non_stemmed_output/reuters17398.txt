@@ -1,0 +1,1 @@
+export inspections thous bushels soybeans 392 wheat 641 corn 728 

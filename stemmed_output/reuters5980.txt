@@ -1,0 +1,1 @@
+shr nil nil net 215 000 000 rev 800 000 100 000 nine mths shr nil net 620 000 231 000 rev 100 000 100 000 reuter 

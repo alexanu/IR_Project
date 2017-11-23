@@ -1,0 +1,1 @@
+oper shr cts seven cts oper net 599 000 550 000 revs mln mln net excludes tax credits 405 000 dlrs 538 000 dlrs reuter 

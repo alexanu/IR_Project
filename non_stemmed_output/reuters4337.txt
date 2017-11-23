@@ -1,0 +1,1 @@
+shr nil net 949 000 799 000 revs mln mln reuter 

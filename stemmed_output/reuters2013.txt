@@ -1,0 +1,1 @@
+shr cts cts net 466 000 913 000 rev mln mln period end februari reuter reuter 

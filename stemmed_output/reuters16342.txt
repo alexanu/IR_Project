@@ -1,0 +1,1 @@
+oper shr cts cts oper shr dilut cts cts oper net 284 955 176 925 rev mln mln current oper net exclud writedown 344 039 dlrs seven cts share unidentifi invest reuter 

@@ -1,0 +1,1 @@
+net loss 705 496 loss 182 766 sale 642 590 126 315 reuter 

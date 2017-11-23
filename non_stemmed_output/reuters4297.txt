@@ -1,0 +1,1 @@
+shr cts cts net 472 000 454 000 revs mln mln avg shrs 135 315 835 325 mths shr cts cts net 393 000 285 000 rwevs 805 000 367 000 avg shares 960 319 835 325 reuter 

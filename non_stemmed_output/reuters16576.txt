@@ -1,0 +1,1 @@
+shr cts cts net 109 131 793 revs 811 636 280 618 reuter 

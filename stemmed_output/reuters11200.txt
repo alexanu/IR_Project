@@ -1,0 +1,1 @@
+shr cts cts net 509 144 277 834 rev 258 341 328 634 avg shrs 177 553 564 605 nine mths shr cts cts net 150 633 649 914 rev 169 168 178 115 reuter 

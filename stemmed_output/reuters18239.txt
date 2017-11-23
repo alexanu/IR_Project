@@ -1,0 +1,1 @@
+shr cts cts net 695 252 633 329 loan 125 mln mln deposit 209 mln 172 mln asset 245 mln 207 mln reuter 

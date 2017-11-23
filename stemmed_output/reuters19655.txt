@@ -1,0 +1,1 @@
+shr loss cts loss cts net loss 030 548 loss 548 442 rev 519 360 081 915 avg shrs 399 993 725 425 reuter 

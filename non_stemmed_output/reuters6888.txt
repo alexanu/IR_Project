@@ -1,0 +1,1 @@
+shr cts cts net 362 000 613 000 avg shrs 567 300 070 700 reuter 

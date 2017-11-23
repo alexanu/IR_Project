@@ -1,0 +1,1 @@
+shr cts cts net 488 000 443 000 assets 289 mln 213 mln deposits 254 mln 188 mln loans 156 mln 123 mln per share amounts adjusted for stock dividends reuter 

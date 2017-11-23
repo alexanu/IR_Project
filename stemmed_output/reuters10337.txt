@@ -1,0 +1,1 @@
+oper shr three cts three cts oper net 511 000 550 000 rev mln mln avg shrs 777 000 074 000 earn exclud gain from util tax loss caryforward 398 000 dlrs three cts share 455 000 dlrs three cts share reuter 

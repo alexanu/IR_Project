@@ -1,0 +1,1 @@
+shr loss cts loss cts net loss 513 542 loss 263 708 revs 000 nil year shr loss cts loss cts net loss 417 552 loss 142 010 revs 171 000 nil reuter 

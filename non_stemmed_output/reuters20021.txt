@@ -1,0 +1,1 @@
+shr two cts cts net 270 000 212 000 revs 858 000 420 000 avg shrs 817 618 507 671 reuter 

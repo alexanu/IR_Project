@@ -1,0 +1,1 @@
+oper shr seven cts cts oper net 347 855 787 117 revs 748 868 849 499 avg shrs 391 666 277 157 year oper shr cts cts oper net 617 528 003 661 revs mln mln avg shrs 763 793 377 157 net excludes realized gains investments 925 576 dlrs 577 389 dlrs quarter and 776 341 dlrs 797 932 dlrs year reuter 

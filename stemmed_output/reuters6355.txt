@@ -1,0 +1,1 @@
+shr cts cts net 602 000 571 000 asset billion billion deposit billion 942 mln loan 834 mln 729 mln return avg asset pct pct reuter 

@@ -1,0 +1,1 @@
+oper shr cts cts oper net 659 000 523 000 revs 866 000 503 000 avg shrs 141 217 925 294 mths oper shr cts cts oper net 075 000 358 000 revs mln mln avg shrs 980 247 925 294 excludes tax gain 295 000 dlrs for qtr and year reuter 

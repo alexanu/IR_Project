@@ -1,0 +1,1 @@
+shr cts cts net 534 000 695 000 revs mln mln avg shrs 447 000 563 000 full name company harman international industries inc reuter 

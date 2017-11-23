@@ -1,0 +1,1 @@
+shr cts cts net 506 000 824 000 sale 045 000 845 000 reuter 

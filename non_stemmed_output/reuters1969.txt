@@ -1,0 +1,1 @@
+shr loss five cts loss six cts net loss 473 784 loss 489 257 revs 268 797 725 avg shrs 245 247 035 326 year shr loss cts loss cts net 512 534 loss 553 592 revs 448 310 515 225 avg shrs 745 132 619 863 reuter 

@@ -1,0 +1,1 @@
+oper shr dlrs cts oper net 648 000 817 000 sale mln mln net exclud discontinu oper gain 451 000 dlrs loss 310 000 dlrs reuter 

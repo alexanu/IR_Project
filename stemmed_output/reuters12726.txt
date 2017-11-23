@@ -1,0 +1,1 @@
+shr cts cts net 121 000 481 000 rev mln mln avg shrs primari 067 000 735 000 reuter 

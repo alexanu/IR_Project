@@ -1,0 +1,1 @@
+shr cts cts net 507 000 147 000 sale mln 608 000 backlog mln mln reuter 

@@ -1,0 +1,1 @@
+shr cts cts net 151 000 439 000 sale mln mln avg shrs 960 000 782 000 reuter 

@@ -1,0 +1,1 @@
+shr cts cts net 249 920 194 369 rev 752 641 355 563 full name scicom data servic ltd reuter 

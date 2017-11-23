@@ -1,0 +1,1 @@
+shr cts cts net 253 742 332 652 avg shrs 251 553 932 064 reuter 

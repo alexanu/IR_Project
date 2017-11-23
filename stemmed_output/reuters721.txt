@@ -1,0 +1,1 @@
+export inspect thous bushel soybean 209 wheat 187 corn 347 

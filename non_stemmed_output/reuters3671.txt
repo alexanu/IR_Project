@@ -1,0 +1,1 @@
+oper shr cts cts oper net 480 000 765 000 revs 386 000 862 000 year oper shr dlrs cts oper net 692 000 732 000 revs mln mln notel net excludes tax credit 000 dlrs reversal credit 000 dlrs quarter and credits 000 dlrs 000 dlrs year reuter 

@@ -1,0 +1,1 @@
+shr cts cts net 704 803 385 081 rev 669 682 142 095 reuter 

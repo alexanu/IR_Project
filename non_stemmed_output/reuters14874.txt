@@ -1,0 +1,1 @@
+shr loss cts loss cts net loss 148 070 loss 251 225 sales 298 257 319 588 reuter 

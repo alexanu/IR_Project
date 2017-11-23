@@ -1,0 +1,1 @@
+shr cts cts net 151 000 078 000 reuter 

@@ -1,0 +1,1 @@
+shr loss cts loss cts net loss 254 000 loss 784 000 revs mln mln avg shrs 317 000 642 000 share adjusted for stock dividend and reverse split reuter 

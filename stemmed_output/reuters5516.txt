@@ -1,0 +1,1 @@
+shr cts cts net 356 754 048 340 asset 448 mln 407 mln reuter 

@@ -1,0 +1,1 @@
+shr cts cts net 902 178 662 647 deposit 174 mln 134 mln per share amount adjust reflect for stock split effect sept 1986 reuter 

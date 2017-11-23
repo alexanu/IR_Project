@@ -1,0 +1,1 @@
+shr cts cts net 185 000 433 000 sale mln mln avg shrs 000 000 200 000 year shr dlrs cts net 759 000 717 000 sale 130 mln mln avg shrs 622 000 200 000 reuter 

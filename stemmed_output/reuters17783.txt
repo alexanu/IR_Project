@@ -1,0 +1,1 @@
+shr cts cts net 597 000 602 000 rev mln mln 1st half shr cts cts net mln 810 000 rev 137 mln mln reuter 

@@ -1,0 +1,1 @@
+shr cts cts net 485 866 316 193 rev 741 508 440 154 year shr cts cts net 108 314 778 197 rev 073 178 687 160 reuter 

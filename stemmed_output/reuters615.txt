@@ -1,0 +1,1 @@
+shr cts nil net 713 000 500 rev mln 328 000 reuter 

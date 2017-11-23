@@ -1,0 +1,1 @@
+shr cts cts net 280 185 875 692 rev mln mln asset 585 mln 469 mln reuter 

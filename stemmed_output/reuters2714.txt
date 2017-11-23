@@ -1,0 +1,1 @@
+oper shr cts cts oper net 211 000 907 000 rev mln mln year oper shr dlrs cts oper net 161 000 690 000 rev 251 mln 230 mln oper exclud loss from discontinu oper 294 000 gain 294 000 for qtr and gain 279 000 gain 979 000 for year reuter 

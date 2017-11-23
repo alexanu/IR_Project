@@ -1,0 +1,1 @@
+shr seven cts cts net 127 000 168 100 rev 807 400 042 900 reuter 

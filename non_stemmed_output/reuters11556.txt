@@ -1,0 +1,1 @@
+oper shr cts cts oper net 048 000 870 000 revs mln mln avg shrs 910 000 680 000 year oper shr cts cts oper net 307 000 637 000 revs 295 mln 287 mln avg shrs 235 000 680 000 results exclude time gains 223 000 four cts and 564 000 cts for 1986 qtr and year gains 359 000 dlrs and 318 000 dlrs for prior periods reuter 

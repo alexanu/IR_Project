@@ -1,0 +1,1 @@
+shr three cts cts net 000 220 000 rev mln mln avg shrs 608 000 530 000 reuter 

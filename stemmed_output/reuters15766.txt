@@ -1,0 +1,1 @@
+shr cts cts net 193 000 918 000 rev mln mln share after prefer dividend reuter 

@@ -1,0 +1,1 @@
+shr two cts nil net 406 348 sale 191 000 249 000 reuter 

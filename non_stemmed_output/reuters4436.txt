@@ -1,0 +1,1 @@
+shr loss cts loss cts net loss 584 100 loss 459 500 sales 339 800 6390 800 year shr loss cts loss cts net loss 314 700 loss 237 100 sales 249 600 311 500 reuter 

@@ -1,0 +1,1 @@
+shr loss cts loss cts net loss 998 764 loss 491 590 revs 712 614 237 850 avg shrs 727 063 838 294 year shr loss dlr loss dlrs net loss 559 004 loss 882 235 revs 510 004 720 640 avg shrs 544 271 838 294 reuter 

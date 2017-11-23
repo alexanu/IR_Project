@@ -1,0 +1,1 @@
+shr cts cts net 416 000 057 000 net includes pretax securities sales gains 900 000 dlrs 900 000 dlrs reuter 

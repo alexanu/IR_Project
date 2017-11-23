@@ -1,0 +1,1 @@
+oper shr cts cts oper net 688 000 665 000 revs mln mln oper excludes tax credits 559 000 537 000 reuter 

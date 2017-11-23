@@ -1,0 +1,1 @@
+shr cts cts net 557 000 020 000 rev 872 000 908 000 year shr cts dlrs net 198 000 313 000 rev mln mln reuter 

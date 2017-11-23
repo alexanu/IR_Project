@@ -1,0 +1,1 @@
+shr nil nil net 130 998 732 rev 568 941 0053 234 reuter 

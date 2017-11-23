@@ -1,0 +1,1 @@
+shr cts cts net 156 576 443 404 sale 309 519 381 264 year shr dlrs dlrs net 788 220 151 330 sale mln mln reuter 
